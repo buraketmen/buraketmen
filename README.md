@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="text-align:justify;margin-bottom:1rem;">I'm Burak, full stack engineer with a background in data science. I love to build seamlessly integrating AI-driven solutions into user-friendly web platforms. I have experience in developing data analytics pipelines, AI models, and web applications. I'm adept at balancing data science and web development roles to deliver end-to-end solutions in 10+ multi-disciplinary R&D projects, contributing to 10+ publications.</div>&nbsp;
+<div style="text-align:justify;margin-bottom:1rem;">I'm Burak, full stack developer with a background in data science. I love to build seamlessly integrating AI-driven solutions into user-friendly web platforms. I have experience in developing data analytics pipelines, AI models, and web applications. I'm adept at balancing data science and web development roles to deliver end-to-end solutions in 10+ multi-disciplinary R&D projects, contributing to 10+ publications.</div>&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buraketmen)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://researchgate.net/profile/Hasan-Ketmen)
@@ -94,8 +94,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-000000?style=flat&logo=traefik&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -105,3 +103,5 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-000000?style=flat&logo=traefik&logoColor=white)
