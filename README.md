@@ -67,16 +67,15 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)](https://ant.design/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=flat&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 [![React Flow](https://img.shields.io/badge/React_Flow-000000?style=flat&logo=react-flow&logoColor=white)](https://reactflow.dev/)
 
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)](https://github.com/celery/celery)
 [![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
@@ -96,5 +95,4 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Loki](https://img.shields.io/badge/Loki-000000?style=flat&logo=loki&logoColor=white)](https://grafana.com/oss/loki/)
-[![Node-RED](https://img.shields.io/badge/Node_RED-8F0000?style=flat&logo=node-red&logoColor=white)](https://nodered.org/)
 [![Traefik](https://img.shields.io/badge/Traefik-000000?style=flat&logo=traefik&logoColor=white)](https://traefik.io/traefik/)
